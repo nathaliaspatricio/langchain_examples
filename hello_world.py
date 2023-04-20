@@ -4,8 +4,8 @@
 ##A OPENAI_API_KEY deve ser gerado na sua conta no OpenAI: https://platform.openai.com/account/api-keys
 ##A HUGGINGFACEHUB_API_TOKEN deve ser gerado na sua conta no HuggingFace: https://huggingface.co/settings/tokens
 import os
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = ""
 
 from langchain.llms import OpenAI
 from langchain.llms import HuggingFaceHub
