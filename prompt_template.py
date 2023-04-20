@@ -3,7 +3,7 @@
 
 ##A OPENAI_API_KEY deve ser gerado na sua conta no OpenAI: https://platform.openai.com/account/api-keys
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 from langchain.llms import OpenAI
 from langchain import PromptTemplate
