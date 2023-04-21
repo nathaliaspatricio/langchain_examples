@@ -1,5 +1,5 @@
 ##Código Teste sobre o LangChain
-##Tutorial completo em: https://www.youtube.com/watch?v=hI2BY7yl_Ac
+##Tutorial completo em: https://www.youtube.com/watch?v=phHqvLHCwH4&t=58s
 
 ##A OPENAI_API_KEY deve ser gerado na sua conta no OpenAI: https://platform.openai.com/account/api-keys
 import os
